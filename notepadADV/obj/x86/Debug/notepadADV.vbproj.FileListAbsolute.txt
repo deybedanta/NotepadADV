@@ -1,0 +1,13 @@
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\bin\Debug\notepadADV.exe
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\bin\Debug\notepadADV.pdb
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\bin\Debug\notepadADV.xml
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\obj\x86\Debug\notepadADV.Resources.resources
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\obj\x86\Debug\notepadADV.vbproj.GenerateResource.Cache
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\obj\x86\Debug\notepadADV.exe
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\obj\x86\Debug\notepadADV.xml
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\obj\x86\Debug\notepadADV.pdb
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\obj\x86\Debug\notepadADV.NotepadADV.resources
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\bin\Debug\NotepadADV.exe.manifest
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\bin\Debug\NotepadADV.application
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\obj\x86\Debug\NotepadADV.exe.manifest
+C:\Users\techb\AppData\Local\Temporary Projects\notepadADV\obj\x86\Debug\NotepadADV.application
