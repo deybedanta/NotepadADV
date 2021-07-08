@@ -9,9 +9,9 @@ This is basically a fun project and is no way meant to infringe the copyrights o
 
 **Frequently asked questions:**
 - My saved files appear with no extension / Why can't I open my save files?
-Ans: While saving, please append file name with `.rtf` so that it can get recognised as rich text format. After that you can use any text editor or NotepadADV to open it.
+- Ans: While saving, please append file name with `.rtf` so that it can get recognised as rich text format. After that you can use any text editor or NotepadADV to open it.
 - The help button is buggy / Bad help :(
-Ans: It is, deal with it. I will fix it though :)
+- Ans: It is, deal with it. I will fix it though :)
 
 
 Have fun!
